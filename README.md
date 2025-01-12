@@ -31,3 +31,5 @@ Filters and Slicers: Add filters for genre, release year, country, and type.
 
 # --- End statement ---
 # Dashboard 
+![image](https://github.com/user-attachments/assets/3253b794-c5ba-48f4-9740-f6b7255f9f2c)
+
